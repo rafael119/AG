@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1475904089 source:e:\escom\algoritmos_geneticos\nueva carpeta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 e:\escom\algoritmos_geneticos\nueva carpeta\inicia.h
+
+1536209681 source:e:\escom\algoritmos_geneticos\nueva carpeta\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"inicia.h"
+
+1475904089 source:c:\users\rafa_\dropbox\escom\algoritmos_geneticos\nueva carpeta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa_\dropbox\escom\algoritmos_geneticos\nueva carpeta\inicia.h
+
+1536255926 source:c:\users\rafa_\dropbox\escom\algoritmos_geneticos\nueva carpeta\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"inicia.h"
+
+1475904089 source:c:\users\rafa\dropbox\escom\algoritmos_geneticos\nueva carpeta\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa\dropbox\escom\algoritmos_geneticos\nueva carpeta\inicia.h
+
+1536431168 source:c:\users\rafa\dropbox\escom\algoritmos_geneticos\nueva carpeta\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"inicia.h"
+
+1475904089 source:c:\users\rafa\dropbox\escom\algoritmos_geneticos\practica1\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa\dropbox\escom\algoritmos_geneticos\practica1\inicia.h
+
+1536438395 source:c:\users\rafa\dropbox\escom\algoritmos_geneticos\practica1\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"inicia.h"
+
