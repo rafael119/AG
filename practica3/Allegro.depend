@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1475904089 source:c:\users\rafa\dropbox\escom\geneticos\pr3fin\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa\dropbox\escom\geneticos\pr3fin\inicia.h
+
+1539321297 source:c:\users\rafa\dropbox\escom\geneticos\pr3fin\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<bitset>
+	"ruleta.h"
+
+1539319329 c:\users\rafa\dropbox\escom\geneticos\pr3fin\ruleta.h
+	<bitset>
+	<random>
+
+1539315814 source:c:\users\rafa\dropbox\escom\geneticos\pr3fin\ruleta.cpp
+	"ruleta.h"
+	<iostream>
+	<time.h>
+
+1475904089 source:c:\users\rafa\dropbox\escom\geneticos\practica3\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa\dropbox\escom\geneticos\practica3\inicia.h
+
+1539321297 source:c:\users\rafa\dropbox\escom\geneticos\practica3\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<bitset>
+	"ruleta.h"
+
+1539319329 c:\users\rafa\dropbox\escom\geneticos\practica3\ruleta.h
+	<bitset>
+	<random>
+
+1539315814 source:c:\users\rafa\dropbox\escom\geneticos\practica3\ruleta.cpp
+	"ruleta.h"
+	<iostream>
+	<time.h>
+
